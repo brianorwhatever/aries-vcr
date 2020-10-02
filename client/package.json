@@ -19,6 +19,7 @@
     "e2e": "ng e2e"
   },
   "dependencies": {
+    "@angular-devkit/build-angular": "^0.6.8",
     "@angular/animations": "~6.1.0",
     "@angular/common": "~6.1.0",
     "@angular/compiler": "~6.1.0",
@@ -46,7 +47,6 @@
     "zone.js": "~0.8.29"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.6.8",
     "@angular-devkit/build-optimizer": "^0.6.8",
     "@angular/compiler-cli": "~7.2.6",
     "@types/jasmine": "~2.8.16",
